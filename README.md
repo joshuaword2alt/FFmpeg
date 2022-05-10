@@ -22,7 +22,7 @@ such as audio, video, subtitles and related metadata.
 * [ffprobe](https://ffmpeg.org/ffprobe.html) is a simple analysis tool to inspect
   multimedia content.
 * Additional small tools such as `aviocat`, `ismindex` and `qt-faststart`.
-* [liblav](https://libav.org/)
+* [liblav](https://libav.org/) is a audio and video processing tool.
 
 
 ## Documentation
