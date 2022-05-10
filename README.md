@@ -24,7 +24,7 @@ such as audio, video, subtitles and related metadata.
 * Additional small tools such as `aviocat`, `ismindex` and `qt-faststart`.
 * [liblav](https://libav.org/) is a audio and video processing tool.
 * [sox](http://sox.sourceforge.net/) SoX can play and record audio files on most platforms.
-* [soxgit](https://github.com/chirlu/sox) SoX can play and record audio files on most platforms.
+* [soxmirror](https://github.com/chirlu/sox) SoX can play and record audio files on most platforms same thing.
 
 
 ## Documentation
