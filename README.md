@@ -51,7 +51,7 @@ Patches should be submitted to the ffmpeg-devel mailing list using
 `git format-patch` or `git send-email`. Github pull requests should be
 avoided because they are not part of our review process and will be ignored.
 
-## Apps Been used
+## Apps Been Used
 * [obs](https://obsproject.com/) streaming and recording
 * [sunvox](https://warmplace.ru/soft/sunvox/) that uses liblav
 * [fl studio](https://www.image-line.com/) that uses a plugin by fl studio for vizulizer
