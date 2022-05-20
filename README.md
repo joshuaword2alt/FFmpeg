@@ -61,4 +61,4 @@ avoided because they are not part of our review process and will be ignored.
 * [replaymod](https://osu.ppy.sh/community/forums/topics/1104243?n=1) minecraft mod uses replays from minecraft
 * [blender](https://www.blender.org/) 3d animating software
 * [avisynth](http://www.avisynth.org/)
-* [megui](https://sourceforge.net/projects/megui/))
+* [megui](https://sourceforge.net/projects/megui/)
