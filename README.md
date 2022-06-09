@@ -26,8 +26,7 @@ such as audio, video, subtitles and related metadata.
 * [sox](http://sox.sourceforge.net/) SoX can play and record audio files on most platforms.
 * [soxmirror](https://github.com/chirlu/sox) SoX can play and record audio files on most platforms same thing.
 * [audacity](https://www.audacityteam.org/) multi-track editor.
-* [ffdshow](http://ffdshow-tryout.sourceforge.net/)ffdshow tryouts is a DirectShow and Video for Windows codec with support for a wide range of audio and video formats, such as Xvid, DivX, and H.264. It includes a powerful filter set that can enhance the video quality - with filters for resizing, deinterlacing, and displaying subtitles - as well as audio quality through normalization, down-/upmixing, and resampling it uses ffmpeg and liblav together
-
+* [ffdshow](http://ffdshow-tryout.sourceforge.net/) ffdshow tryouts is a DirectShow and Video for Windows codec with support of ffmpeg and liblav
 ## Documentation
 
 The offline documentation is available in the **doc/** directory.
