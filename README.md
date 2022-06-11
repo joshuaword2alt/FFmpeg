@@ -64,7 +64,7 @@ avoided because they are not part of our review process and will be ignored.
 * [megui](https://sourceforge.net/projects/megui/)
 * [vlc](https://github.com/videolan/vlc) video player
 * [mpv](https://github.com/mpv-player/mpv) video player just the same as vlc
-
+* [librosa](https://github.com/librosa/librosa)
 ## FFmpeg BS-CLI for osr2mp4
 
 https://drive.google.com/file/d/1ZLAmJVCN---Bw8yFTeJFLQ9nEl32PHn4/view?usp=drivesdk this is a tool for smoothing for osr2mp4 
