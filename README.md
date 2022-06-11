@@ -62,7 +62,8 @@ avoided because they are not part of our review process and will be ignored.
 * [blender](https://www.blender.org/) 3d animating software
 * [avisynth](http://www.avisynth.org/)
 * [megui](https://sourceforge.net/projects/megui/)
-
+* [vlc](https://github.com/videolan/vlc) video player
+* [mpv](https://github.com/mpv-player/mpv) video player just the same as vlc
 
 ## FFmpeg BS-CLI for osr2mp4
 
