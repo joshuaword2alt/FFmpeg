@@ -66,9 +66,8 @@ avoided because they are not part of our review process and will be ignored.
 * [mpv](https://github.com/mpv-player/mpv) video player just the same as vlc
 * [librosa](https://github.com/librosa/librosa) a python package for music and audio analysis
 * [reaper](https://www.reaper.fm/) it's the same for fl studio because you can make music
-* [vocalremover](https://github.com/Anjok07/ultimatevocalremovergui)
+* [vocalremover](https://github.com/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover)
 * [spleeter](https://github.com/deezer/spleeter) 
-* [vocalremover2](https://github.com/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover)
 ## FFmpeg BS-CLI for osr2mp4
 
 https://drive.google.com/file/d/1ZLAmJVCN---Bw8yFTeJFLQ9nEl32PHn4/view?usp=drivesdk this is a tool for smoothing for osr2mp4 
