@@ -68,6 +68,7 @@ avoided because they are not part of our review process and will be ignored.
 * [reaper](https://www.reaper.fm/) it's the same for fl studio because you can make music
 * [vocalremover](https://github.com/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover)
 * [spleeter](https://github.com/deezer/spleeter) 
+* [librosa](https://github.com/librosa/librosa)
 ## FFmpeg BS-CLI for osr2mp4
 
 https://drive.google.com/file/d/1ZLAmJVCN---Bw8yFTeJFLQ9nEl32PHn4/view?usp=drivesdk this is a tool for smoothing for osr2mp4 
