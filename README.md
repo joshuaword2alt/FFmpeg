@@ -70,6 +70,7 @@ avoided because they are not part of our review process and will be ignored.
 * [spleeter](https://github.com/deezer/spleeter) 
 * [librosa](https://github.com/librosa/librosa)
 * [omxplayer](https://github.com/popcornmix/omxplayer)
+* [jukebox](https://github.com/joshuaword2alt/jukebox)
 ## FFmpeg BS-CLI for osr2mp4
 
 https://drive.google.com/file/d/1ZLAmJVCN---Bw8yFTeJFLQ9nEl32PHn4/view?usp=drivesdk this is a tool for smoothing for osr2mp4 
