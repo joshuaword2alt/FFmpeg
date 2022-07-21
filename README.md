@@ -73,7 +73,7 @@ avoided because they are not part of our review process and will be ignored.
 * [jukebox](https://github.com/joshuaword2alt/jukebox)
 * [zenith-midi](https://github.com/arduano/Zenith-MIDI)
 * [keppy-counter-generator](https://github.com/KeppySoftware/KeppyCounterGenerator)
-
+* [openmpt](https://openmpt.org/)
 ## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
 
