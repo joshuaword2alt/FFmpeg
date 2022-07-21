@@ -74,9 +74,7 @@ avoided because they are not part of our review process and will be ignored.
 * [zenith-midi](https://github.com/arduano/Zenith-MIDI)
 * [keppy-counter-generator](https://github.com/KeppySoftware/KeppyCounterGenerator)
 
-##
-
-here is some sunvox bug fixes to check out
+## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
 
 ## FFmpeg BS-CLI for osr2mp4
