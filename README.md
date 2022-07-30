@@ -77,6 +77,8 @@ avoided because they are not part of our review process and will be ignored.
 * [vegas-datamosh](https://github.com/delthas/vegas-datamosh)
 * [docker-version](https://github.com/jrottenberg/ffmpeg)
 * [pipline-ffmpeg](https://huggingface.co/transformers/v4.11.3/main_classes/pipelines.html?highlight=ffmpeg) The pipelines are a great and easy way to use models for inference.
+* [blur](https://github.com/f0e/blur)
+
 
 ## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
