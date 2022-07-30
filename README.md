@@ -81,6 +81,9 @@ avoided because they are not part of our review process and will be ignored.
 ## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
 
+## Also [pipline-ffmpeg](https://huggingface.co/transformers/v4.11.3/main_classes/pipelines.html?highlight=ffmpeg)
+
+
 ## FFmpeg BS-CLI for osr2mp4
 
 https://drive.google.com/file/d/1ZLAmJVCN---Bw8yFTeJFLQ9nEl32PHn4/view?usp=drivesdk this is a tool for smoothing for osr2mp4 
