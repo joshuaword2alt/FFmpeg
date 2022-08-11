@@ -80,7 +80,7 @@ avoided because they are not part of our review process and will be ignored.
 * [blur](https://github.com/f0e/blur)
 * [archlinux](https://aur.archlinux.org/packages/ffmpeg-git)
 * [bliss-rs](https://github.com/Polochon-street/bliss-rs)
-
+* [ffmpeg-python](https://github.com/eugeneware/ffmpeg-static)
 
 ## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
