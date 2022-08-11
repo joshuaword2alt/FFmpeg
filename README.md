@@ -81,7 +81,6 @@ avoided because they are not part of our review process and will be ignored.
 * [archlinux](https://aur.archlinux.org/packages/ffmpeg-git)
 * [bliss-rs](https://github.com/Polochon-street/bliss-rs)
 * [ffmpeg-python](https://github.com/eugeneware/ffmpeg-static)
-* [brew-ffmpeg](https://formulae.brew.sh/formula/ffmpeg)
 
 
 ## here is some sunvox bug fixes to check out
