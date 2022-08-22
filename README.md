@@ -81,7 +81,7 @@ avoided because they are not part of our review process and will be ignored.
 * [archlinux](https://aur.archlinux.org/packages/ffmpeg-git)
 * [bliss-rs](https://github.com/Polochon-street/bliss-rs)
 * [ffmpeg-python](https://github.com/eugeneware/ffmpeg-static)
-* [windows-tweaking](https://hone.gg/) windows peformance tweaking do not try it at your own risk
+
 
 ## here is some sunvox bug fixes to check out
 * [bug-fixes](https://github.com/joshuaword2alt/sunvox-bugs-fixes-update-ffmpeg)
