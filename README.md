@@ -81,6 +81,7 @@ avoided because they are not part of our review process and will be ignored.
 * [archlinux](https://aur.archlinux.org/packages/ffmpeg-git)
 * [bliss-rs](https://github.com/Polochon-street/bliss-rs)
 * [ffmpeg-python](https://github.com/eugeneware/ffmpeg-static)
+* [ntscqt](https://github.com/JargeZ/ntscqt)
 * [![hone](https://img.shields.io/badge/hone.gg-boosting%20fps-orange)](https://hone.gg/)
 
 
