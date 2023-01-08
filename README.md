@@ -84,7 +84,8 @@ avoided because they are not part of our review process and will be ignored.
 * [ntscqt](https://github.com/JargeZ/ntscqt)
 * [![hone](https://img.shields.io/badge/hone.gg-boosting%20fps-orange)](https://hone.gg/)
 * [oscilloscoper](https://github.com/kometbomb/oscilloscoper)
-
+* [sorting](https://github.com/joshuaword2alt/sound-of-sorting)
+* [archlinux](https://archive.org/details/archlinux_pkg_ffmpeg)
 
 
 ## here is some sunvox bug fixes to check out
